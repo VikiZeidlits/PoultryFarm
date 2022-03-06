@@ -1,0 +1,15 @@
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\bin\Debug\PoultryFarmWPF.exe.config
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\bin\Debug\PoultryFarmWPF.exe
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\bin\Debug\PoultryFarmWPF.pdb
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\PoultryFarmWPF.csproj.AssemblyReference.cache
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\MainWindow.g.cs
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\App.g.cs
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\PoultryFarmWPF_MarkupCompile.cache
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\PoultryFarmWPF_MarkupCompile.lref
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\MainWindow.baml
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\PoultryFarmWPF.g.resources
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\PoultryFarmWPF.Properties.Resources.resources
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\PoultryFarmWPF.csproj.GenerateResource.cache
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\PoultryFarmWPF.csproj.CoreCompileInputs.cache
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\PoultryFarmWPF.exe
+D:\Users\User\source\repos\PoultryFarmDb\PoultryFarmWPF\obj\Debug\PoultryFarmWPF.pdb
